@@ -1,16 +1,31 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A60A0A&height=120&section=header"/>
 
-<!--
-**PabloFalc/PabloFalc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi there 🤝! I'm Pablo!</h1>
+<p>I'm a Software Engineering student and I've recently started in the programming field. Because of that, I'm still getting familiar with all the possible careers I can pursue. However, I already have in mind things I want to study, such as Cybersecurity and Data Science."</p>
+<ul>
+    <li>
+        🖥Studying Software Engineering
+    </li>
+    <li>
+        🌐I enjoy Cybersecurity, Data Science, Back-End and a bit of Front-end.
+    </li>
+</ul>
+<h1> My Stats</h1>
 
-Here are some ideas to get you started:
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PabloFalc&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=A60A0A&text_color=c9d1d9&bg_color=0d1117" alt="Pablo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloFalc&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>My Skills</h1>
+<div style="text-align: center;">
+    <p>Some of the skills I have.</p>
+    <img alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img alt="Icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img alt="Icon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A60A0A&height=120&section=footer"/>
+
+

@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A60A0A&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6E3DD9&height=120&section=header"/>
 
 <h1>Hi there 🤝! I'm Pablo!</h1>
 <h3>📖ABOUT ME</h3>
@@ -14,8 +14,8 @@
 <h1>🎱MY STATS</h1>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PabloFalc&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=A60A0A&text_color=c9d1d9&bg_color=0d1117" alt="Pablo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloFalc&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PabloFalc&show_icons=true&count_private=true&hide_border=true&title_color=6E3DD9&icon_color=F20574&text_color=c9d1d9&bg_color=0d1117" alt="Pablo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloFalc&layout=compact&hide_border=true&title_color=F20574&text_color=F2F2F2&bg_color=0d1117"/>
 </div>
 
 <h1>🛠MY SKILLS</h1>
@@ -31,6 +31,6 @@
 <a href="https://www.linkedin.com/in/pablo-falcao-aa7179300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div> 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A60A0A&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6E3DD9&height=120&section=footer"/>
 
 

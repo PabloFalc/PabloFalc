@@ -1,8 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6E3DD9&height=120&section=header"/>
 
 <div>
-  <img height="70" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7EBEA&random=false&width=435&lines=Hey!+What's+up?+Welcome!;PabloFalc's+GitHub"/>
+  <img height="70" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7EBEA&random=false&width=435&lines=👋+Hey!+What's+up?+Welcome!;🚀+PabloFalc's+GitHub+💻"/>
 </div>
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PabloFalc&show_icons=true&count_private=true&hide_border=true&title_color=6E3DD9&icon_color=F20574&text_color=c9d1d9&bg_color=0d1117" alt="Pablo github stats" /> 

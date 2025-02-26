@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6E3DD9&height=120&section=header"/>
 
 <div>
   <img height="70" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7EBEA&random=false&width=435&lines=👋+Hey!+What's+up?+Welcome!;🚀+PabloFalc's+GitHub+💻"/>
@@ -13,6 +12,3 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/pablo-falcao-aa7179300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div> 
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6E3DD9&height=120&section=footer"/>
